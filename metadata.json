@@ -1,0 +1,5 @@
+{
+  "name": "DocuGen AI (Thai)",
+  "description": "An AI-powered documentary generator that creates educational audio-visual stories in Thai. Generates scripts, voiceovers, and images dynamically.",
+  "requestFramePermissions": []
+}
